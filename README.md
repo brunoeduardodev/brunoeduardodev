@@ -1,10 +1,13 @@
-<h2>Hey there! I'm Bruno Eduardo.</h2>
 
+<p style="text-align: center"><img width="45%" alt="Coing Gif" src="https://blog.bsource.com.br/assets/img/comunidade.gif" /></p>
+<h2>Hey there! I'm Bruno Eduardo.</h2>
 <h3>💻 &nbsp;About Me</h3>
 
-- 🌱 I’m currently learning javascript stacks like Angular and Vue.
-- 👯 I’m looking to collaborate on web open source projects.
-- 🎓 Studying computer technician at IFRN - Campus Caicó
+- 🌱 &nbsp; I’m currently learning javascript stacks like Angular and Vue.
+- 👯 &nbsp; I’m looking to collaborate on web open source projects.
+- 🎓 &nbsp;  Studying computer technician at IFRN - Campus Caicó
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -17,7 +20,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![ReactNative](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![ReactNative](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=react)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
