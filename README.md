@@ -3,7 +3,7 @@
 <h2>Hey there! I'm Bruno Eduardo.</h2>
 <h3>💻 &nbsp;About Me</h3>
 
-- 🌱 &nbsp; I’m currently learning javascript stacks like Angular and Vue.
+- 🌱 &nbsp; I’m currently learning javascript frameworks like Angular and Vue.
 - 👯 &nbsp; I’m looking to collaborate on web open source projects.
 - 🎓 &nbsp;  Studying computer technician at IFRN - Campus Caicó
 
